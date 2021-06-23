@@ -1,0 +1,7 @@
+fastapi
+camel_tools.tokenizers.word.simple_word_tokenize
+camel_tools.disambig.mle.MLEDisambiguator
+camel_tools.tagger.default.DefaultTagger
+camel_tools.utils.dediac.dediac_ar
+camel_tools.morphology.database.MorphologyDB
+camel_tools.morphology.analyzer.Analyzer
